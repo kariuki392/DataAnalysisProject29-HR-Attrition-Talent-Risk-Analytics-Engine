@@ -146,3 +146,78 @@ This HR Attrition Engine applies **credit risk modeling techniques to talent ana
 - Insight: -0.31 correlation (salary-sensitive); +1 SD comp = -1.8% attrition within dept
 
 ---
+
+## Recommendations
+
+### **Immediate (0–30 days)**
+1. **Fast-track promotion** for 312 at-risk high performers
+   - Expected impact: Reduce at-risk segment by 30–40%
+   - Investment: HR time (~40 hours for review + communication)
+
+2. **Sales Department Retention Plan**
+   - Tighten promotion cycles (24 → 18 months to next level)
+   - Review base pay vs. market (currently 8% below engineering)
+   - Expected impact: Reduce Sales attrition from 25% → 20% (36 employee/year retention)
+
+3. **Compensation Standardization**
+   - Audit pay bands within department/level cohorts
+   - Reduce salary spread (currently ±22% in Sales; target ±12%)
+   - Expected impact: -3–5% attrition in affected cohorts
+
+### **Medium-Term (30–90 days)**
+1. **Engagement Monitoring Dashboard**
+   - Real-time satisfaction tracking (quarterly pulse surveys)
+   - Auto-alert on "high performer + low satisfaction" combinations
+   - Model predicts churn 6 months ahead; allows proactive intervention
+
+2. **Training Investment** (Retention Driver #5)
+   - Allocate 50+ training hours/year to high-potential employees
+   - Current cost: ~KES 5,000/person; ROI: Prevents KES 150K turnover cost per retained employee
+
+3. **Promotion Velocity Analysis**
+   - Establish "time-to-promotion" KPIs by department/level
+   - Sales: 24 months (current) → 18 months (target); removes overdue promotion pressure
+
+### **Strategic (90+ days)**
+1. **Predictive Churn Model Integration** into HR workflows
+   - Score all employees quarterly using XGBoost model
+   - Route high-risk employees to retention conversations (manager + HR)
+   - Track intervention effectiveness (post-conversation attrition rate)
+
+2. **Organizational Redesign** (Operations/Marketing)
+   - High attrition in Operations (18.2%) suggests role stress or career ceiling
+   - Explore: Mentorship programs, cross-functional rotations, skill development paths
+   - Expected impact: -3–5% attrition in redesigned roles
+
+---
+
+## Implementation Roadmap
+
+| Phase | Timeframe | Action | Owner | Expected Outcome |
+|-------|-----------|--------|-------|------------------|
+| **Phase 1** | Week 1–2 | Identify 312 at-risk high performers; schedule retention conversations | HR + Managers | 30–40% reduction in at-risk segment |
+| **Phase 2** | Week 3–4 | Audit compensation equity (esp. Sales); propose pay band adjustments | HR + Finance | Approved pay standardization plan |
+| **Phase 3** | Month 2 | Deploy churn dashboard to managers; establish quarterly scoring | HR Analytics | Real-time risk visibility |
+| **Phase 4** | Month 3+ | Training investment in high-potential; promotion cycle acceleration | HR + Department Leads | Improved engagement scores; sustained low churn |
+
+---
+
+## Regulatory & Fairness Notes
+
+- ✅ **Non-discriminatory:** Model features exclude protected attributes (gender, age, religion)
+- ⚠️ **Age proxy risk:** "Tenure" may inadvertently correlate with age; monitor disparate impact
+- ⚠️ **Department-level disparity:** Sales attrition 2.5× Finance; ensure intervention equity
+
+---
+
+## Conclusion
+
+This engine converts **HR data into actionable retention levers**. The XGBoost model's 78% AUC provides **6-month lead time** on high-risk departures, enabling proactive intervention. **At-risk high performer identification** alone justifies the model—preventing even 10 departures (average KES 150K replacement cost) yields **3× ROI** in year 1.
+
+**Next Steps:** Deploy churn scoring to managers; establish quarterly risk reviews; track intervention effectiveness over 12 months.
+
+---
+
+**Built by:** Gabriel Kariuki | **Nairobi, Kenya** | August 29, 2026  
+**Portfolio:** [github.com/kariuki392](https://github.com/kariuki392)
+
