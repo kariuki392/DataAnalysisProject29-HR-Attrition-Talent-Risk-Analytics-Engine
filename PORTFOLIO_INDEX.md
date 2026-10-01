@@ -29,3 +29,21 @@ Regulatory-grade models addressing Central Bank of Kenya (CBK), IFRS 9, and Base
 **Specialization:** Credit risk, pricing, provisioning, and regulatory compliance aligned to CBK/Basel standards.
 
 ---
+### **TIER 2: MACHINE LEARNING & PREDICTIVE MODELING** (8 Projects)
+
+Advanced ML pipelines with model comparison, hyperparameter tuning, and production deployment considerations.
+
+| # | Project | Domain | Models | Dataset |
+|---|---------|--------|--------|---------|
+| **20** | [Diabetes Prediction (Medical Classification)](./projects/20_diabetes_prediction) | Healthcare ML | LR, KNN, SVM, RF, XGB ensemble | 768 patients; 92% AUC |
+| **19** | [Cybersecurity Intrusion Detection](./projects/19_cybersecurity_detection) | Network Security | Isolation Forest, LOF, autoencoder anomaly detection | 125K network flows; 94% F1-score |
+| **18** | [Supply Chain Logistics & Lead-Time Forecasting](./projects/18_supply_chain_optimization) | Operations | ARIMA, Prophet, XGBoost time-series | 5K shipments; ±8% forecast error |
+| **17** | [Netflix Recommendation Engine](./projects/17_netflix_recommendations) | Collaborative Filtering | Matrix factorization, cosine similarity, SVD | 10K users × 500 films; RMSE 0.82 |
+| **16** | [Airbnb Price Prediction & Market Segmentation](./projects/16_airbnb_pricing) | Real Estate | K-means clustering, Ridge regression, GBM | 8K listings; R² = 0.71 |
+| **15** | [Real Estate Valuation Model](./projects/15_real_estate_valuation) | Property Markets | Random Forest, gradient boosting, ensemble stacking | 1.5K properties; MAPE 12% |
+| **14** | [Flight Delay Prediction](./projects/14_flight_delays) | Travel Analytics | Logistic regression, decision trees, neural networks | 50K flights; 89% precision on delays |
+| **13** | [COVID-19 Epidemiological Forecasting](./projects/13_covid_forecasting) | Pandemic Analytics | SEIR compartmental model, Bayesian inference, confidence intervals | 180 countries; 2-week ahead predictions |
+
+**Specialization:** Classification, time-series forecasting, anomaly detection, ensemble methods, and fairness/bias auditing.
+
+---
