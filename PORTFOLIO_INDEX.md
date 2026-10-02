@@ -47,3 +47,15 @@ Advanced ML pipelines with model comparison, hyperparameter tuning, and producti
 **Specialization:** Classification, time-series forecasting, anomaly detection, ensemble methods, and fairness/bias auditing.
 
 ---
+
+### **TIER 3: PEOPLE ANALYTICS & ORGANIZATIONAL INSIGHTS** (1 Project)
+
+Employee lifecycle and organizational performance analytics.
+
+| # | Project | Domain | Key Insights | Dataset |
+|---|---------|--------|--------------|---------|
+| **28** | [HR Attrition & Talent Risk Analytics](./projects/28_hr_attrition_analytics) | People Analytics | Churn prediction, compensation equity, retention drivers | 5K employees; 78% AUC churn model |
+
+**Specialization:** Workforce planning, retention optimization, compensation equity, organizational design.
+
+---
