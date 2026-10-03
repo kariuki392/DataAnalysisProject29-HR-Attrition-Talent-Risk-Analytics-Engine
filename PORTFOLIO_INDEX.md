@@ -59,3 +59,16 @@ Employee lifecycle and organizational performance analytics.
 **Specialization:** Workforce planning, retention optimization, compensation equity, organizational design.
 
 ---
+### **TIER 4: GENERAL ANALYTICS & EXPLORATORY DATA ANALYSIS** (12 Projects)
+
+Kaggle datasets and business analytics showcasing end-to-end analytical workflows.
+
+| # | Project | Domain | Analysis Type | Outcome |
+|---|---------|--------|---------------|---------|
+| **12** | [HR Attrition Analysis (IBM Dataset)](./projects/12_hr_attrition_eda) | People Analytics | Exploratory analysis, correlation heatmaps, churn drivers | Tenure, department, role identified as key retention levers |
+| **11** | [Credit Risk Scoring (Kaggle)](./projects/11_credit_risk_scoring) | Credit Modeling | Logistic regression, ROC curves, credit bureau simulation | 150K borrowers; 0.76 AUC |
+| **10** | [Customer Segmentation (E-commerce RFM)](./projects/10_customer_segmentation) | Marketing Analytics | RFM clustering, lifetime value modeling, segment strategy | 50K customers; 8-cluster segmentation |
+| **9** | [Time-Series Decomposition & Forecasting](./projects/09_timeseries_analysis) | Forecasting | STL decomposition, ARIMA, Prophet, ensemble | Seasonal + trend + error components isolated |
+| **8** | [Cohort Analysis & Retention Curves](./projects/08_cohort_analysis) | Behavioral Analytics | Month-over-month cohorts, survival analysis | 90-day retention: 45% → 32% decay |
+| **7** | [Feature Engineering Best Practices](./projects/07_feature_engineering) | ML Foundations | Domain-driven features, domain-blind discovery, feature selection | 50 synthetic features; 10 core drivers identified |
+| **6** | [Dimensionality Reduction (PCA & t-SNE)](./projects/06_dimensionality_reduction) | Unsupervised Learning | PCA variance explained, t-SNE visualization, elbow method | 50D → 2D projection; 95% variance in 20 components |
