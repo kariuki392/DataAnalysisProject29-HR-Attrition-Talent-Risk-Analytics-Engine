@@ -72,3 +72,14 @@ Kaggle datasets and business analytics showcasing end-to-end analytical workflow
 | **8** | [Cohort Analysis & Retention Curves](./projects/08_cohort_analysis) | Behavioral Analytics | Month-over-month cohorts, survival analysis | 90-day retention: 45% → 32% decay |
 | **7** | [Feature Engineering Best Practices](./projects/07_feature_engineering) | ML Foundations | Domain-driven features, domain-blind discovery, feature selection | 50 synthetic features; 10 core drivers identified |
 | **6** | [Dimensionality Reduction (PCA & t-SNE)](./projects/06_dimensionality_reduction) | Unsupervised Learning | PCA variance explained, t-SNE visualization, elbow method | 50D → 2D projection; 95% variance in 20 components |
+| **5** | [Statistical Testing & Hypothesis Validation](./projects/05_statistical_testing) | Experimentation | A/B testing, t-tests, chi-square, Bayesian inference | Power analysis; minimum sample size calculators |
+| **4** | [Data Cleaning & Handling Missing Values](./projects/04_data_cleaning) | Data Wrangling | Imputation strategies, outlier detection, data quality assessment | 40% missing → 95% recovery rate |
+| **3** | [Exploratory Data Analysis (EDA) Framework](./projects/03_eda_framework) | Analytics Foundations | Distribution analysis, correlation matrices, anomaly flagging | Univariate + bivariate + multivariate workflows |
+| **2** | [SQL Database Analytics](./projects/02_sql_analytics) | Database Skills | Joins, aggregations, window functions, query optimization | Sub-second query performance on 10M rows |
+| **1** | [Python Data Wrangling Fundamentals](./projects/01_python_fundamentals) | Programming | Pandas, NumPy, list comprehensions, data transformations | Foundation for all 26+ projects |
+
+**Specialization:** Foundational analytics, exploratory workflows, and statistical rigor.
+
+---
+
+## 🏗️ Build Architecture & Workflow
