@@ -83,3 +83,38 @@ Kaggle datasets and business analytics showcasing end-to-end analytical workflow
 ---
 
 ## 🏗️ Build Architecture & Workflow
+
+Every project follows a **systematic production-grade pipeline**:
+
+```
+1. Synthetic Data Engineering (nbformat)
+   ↓
+2. Exploratory Analysis & Feature Engineering
+   ↓
+3. Statistical Modeling & Cross-Validation
+   ↓
+4. Model Comparison & Selection
+   ↓
+5. Dashboard Visualization (5-6 panels, 130 DPI)
+   ↓
+6. Executive Summary & Recommendations
+   ↓
+7. Comprehensive README (1,000-2,000 words)
+   ↓
+8. GitHub Push & Portfolio Integration
+```
+
+### **Key Technologies**
+
+| Category | Stack |
+|----------|-------|
+| **Data Processing** | Pandas, NumPy, Polars |
+| **Visualization** | Matplotlib, Seaborn, Plotly |
+| **ML/Stats** | Scikit-learn, XGBoost, LightGBM, CatBoost, statsmodels |
+| **Time-Series** | ARIMA, Prophet, Exponential Smoothing |
+| **Anomaly Detection** | Isolation Forest, LOF, Autoencoder |
+| **Specialized** | SHAP, Optuna (hyperparameter tuning), Bayesian optimization |
+| **Notebook** | nbformat, ExecutePreprocessor (programmatic execution) |
+| **Deployment** | Docker, FastAPI, SQLite |
+
+---
