@@ -118,3 +118,36 @@ Every project follows a **systematic production-grade pipeline**:
 | **Deployment** | Docker, FastAPI, SQLite |
 
 ---
+## 📈 Learning Arc & Progression
+
+### **Phase 1: Foundations (Projects 1–7)**
+- Python fundamentals, pandas workflows, SQL queries
+- EDA frameworks, hypothesis testing, feature engineering basics
+- **Outcome:** Confident in data manipulation & exploratory analysis
+
+### **Phase 2: Modeling & ML (Projects 8–20)**
+- Classification, regression, clustering, time-series forecasting
+- Model comparison, cross-validation, hyperparameter tuning
+- Anomaly detection, ensemble methods, neural networks
+- **Outcome:** Proficient in predictive modeling across 8+ domains
+
+### **Phase 3: Regulatory & Finance (Projects 21–25)**
+- AML transaction monitoring, vendor risk management
+- Credit risk, IFRS 9 provisioning, ECL calculation
+- Regulatory compliance (CBK, Basel III, FATF standards)
+- **Outcome:** Expert in financial risk & regulatory frameworks
+
+### **Phase 4: Production Synthesis (Projects 26–27)**
+- Portfolio analytics, collections optimization
+- Dynamic pricing, product mix optimization
+- End-to-end decisioning engines
+- **Outcome:** Can architect production systems from scratch
+
+### **Phase 5: Workforce Analytics (Project 28)**
+- People analytics, HR metrics, organizational insights
+- Extends risk thinking to human capital
+- **Outcome:** Demonstrates cross-functional analytical capability
+
+---
+
+## 🎯 Key Strengths Demonstrated
