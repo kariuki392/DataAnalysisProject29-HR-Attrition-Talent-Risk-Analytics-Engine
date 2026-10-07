@@ -151,3 +151,18 @@ Every project follows a **systematic production-grade pipeline**:
 ---
 
 ## 🎯 Key Strengths Demonstrated
+
+| Competency | Projects | Evidence |
+|------------|----------|----------|
+| **Credit Risk Modeling** | 21, 25, 26, 27 | Dual scoring, ECL, collections, pricing engines |
+| **Regulatory Compliance** | 21, 22, 25, 27 | CBK/FATF/Basel alignment, audit-ready documentation |
+| **Alternative Data** | 27 | M-Pesa/Till signals outrank traditional credit bureau data |
+| **Time-Series Forecasting** | 9, 13, 18, 24, 26 | ARIMA, Prophet, XGBoost, Markov chains |
+| **Product Optimization** | 24, 27 | Capital allocation, pricing, portfolio mix |
+| **Visualization & Storytelling** | All 27 | 150+ executive-grade dashboards (130 DPI, regulatory-ready) |
+| **Synthetic Data Engineering** | All 27 | Domain-realistic panels; 75K+ loan applicants, 1M transactions, etc. |
+| **Statistical Testing** | 5, 8, 20, 21 | Hypothesis validation, A/B testing, power analysis |
+| **Fairness & Bias Audit** | 20, 27 | Disparate impact analysis, model transparency |
+| **Scalability & Performance** | 11, 18, 26 | Handles 100K–1M row datasets; sub-second queries |
+
+---
