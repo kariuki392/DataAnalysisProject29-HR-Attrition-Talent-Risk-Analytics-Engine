@@ -166,3 +166,20 @@ Every project follows a **systematic production-grade pipeline**:
 | **Scalability & Performance** | 11, 18, 26 | Handles 100K–1M row datasets; sub-second queries |
 
 ---
+
+## 📊 Portfolio Metrics at a Glance
+
+| Metric | Value |
+|--------|-------|
+| **Total Projects** | 27 |
+| **Total Executed Notebooks** | 27 |
+| **Total Dashboard Panels** | 150+ |
+| **Lines of Documentation** | 40,000+ |
+| **Synthetic Datasets Generated** | 27 |
+| **Largest Dataset** | 3.1M rows (Project 26: 100K loans × 31 months) |
+| **Domain Breadth** | Finance, compliance, healthcare, e-commerce, travel, telecom, people analytics |
+| **Model Types Deployed** | 20+ (LR, RF, XGB, SVM, NN, ARIMA, Prophet, anomaly detection, clustering, etc.) |
+| **Regulatory Frameworks Addressed** | 5 (CBK, IFRS 9, Basel III, FATF, OCC/NIST) |
+| **GitHub Stars** | Tracking on kariuki392 |
+
+---
