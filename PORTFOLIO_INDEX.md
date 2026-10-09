@@ -183,3 +183,21 @@ Every project follows a **systematic production-grade pipeline**:
 | **GitHub Stars** | Tracking on kariuki392 |
 
 ---
+## 🎓 Technical Highlights by Project
+
+### **Most Complex Model**
+**Project 25 (IFRS 9 ECL Engine):** 3-dimension PD/LGD/EAD matrix, stage migration probabilities, stress-testing with recession/drought scenarios, KES 2.1B reserve calculation
+
+### **Most Data-Intensive**
+**Project 26 (Roll-Rate & Vintage Analysis):** 100K loans × 24 cohorts × 31 monthly snapshots = 3.1M panel rows; Markov chain forecasting with index-based loop optimization
+
+### **Most Alternative Data Innovation**
+**Project 27 (Retail Origination & Pricing):** M-Pesa velocity, Till turnover, diaspora remittances outrank traditional CRB features; XGBoost +33 bps AUC lift; 75K applicants scored
+
+### **Fastest Model Turnaround**
+**Project 28 (HR Attrition Analytics):** 4-hour build; 5K employees; 78% churn model AUC; quick people analytics proof-of-concept
+
+### **Broadest ML Coverage**
+**Projects 8–20:** Classification, regression, clustering, time-series, anomaly detection, ensemble, neural networks, fairness auditing all demonstrated
+
+---
