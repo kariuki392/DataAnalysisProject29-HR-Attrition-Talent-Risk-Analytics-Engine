@@ -201,3 +201,24 @@ Every project follows a **systematic production-grade pipeline**:
 **Projects 8–20:** Classification, regression, clustering, time-series, anomaly detection, ensemble, neural networks, fairness auditing all demonstrated
 
 ---
+## 💼 How to Use This Portfolio
+
+### **For Hiring Managers**
+1. Start here (this README) for portfolio overview
+2. Review **Tier 1 (Finance)** if role targets risk/compliance
+3. Skim **Tier 2 (ML)** for modeling breadth
+4. Check individual project READMEs for technical depth
+
+### **For Peers/Code Reviewers**
+1. Clone any project from `kariuki392` GitHub
+2. Review notebook structure (cells 1–17)
+3. Reproduce results: `jupyter nbconvert --to notebook --execute project_name.ipynb`
+4. Feedback welcome; open issues appreciated
+
+### **For Interviewers**
+1. **Tell the story:** 27 projects = systematic learning from foundations → regulatory compliance → production systems
+2. **Ask about trade-offs:** Why dual model (LR + XGB) vs. single? Why synthetic data? Why 6-panel dashboards?
+3. **Probe alternatives:** What would you do differently? What's missing from Project 27 pricing?
+4. **Explore code:** nbformat usage, ExecutePreprocessor patterns, feature engineering decisions
+
+---
