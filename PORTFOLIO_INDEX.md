@@ -222,3 +222,27 @@ Every project follows a **systematic production-grade pipeline**:
 4. **Explore code:** nbformat usage, ExecutePreprocessor patterns, feature engineering decisions
 
 ---
+## 🚀 What's Next?
+
+- **Master README expansion:** Add code walkthroughs, best-practice patterns, and reusable templates
+- **Production deployment:** Docker containers, FastAPI endpoints, cloud deployment (AWS/GCP)
+- **Advanced modeling:** Causal inference, fairness/transparency frameworks, explainable AI (SHAP)
+- **Specialized domains:** Supply chain risk, ESG analytics, climate risk, real-time fraud detection
+- **Open-source contribution:** Package reusable modules (e.g., `ecl-engine`, `credit-scoring`) for community
+
+---
+
+## 📬 Contact & Engagement
+
+**Gabriel Kariuki**  
+Nairobi, Kenya  
+📊 [GitHub: kariuki392](https://github.com/kariuki392)  
+🔗 [LinkedIn](https://linkedin.com/in/gabrielkariuki)  
+✉️ Email: [gabriel@example.com]  
+
+**Portfolio Built:** August 2026  
+**Last Updated:** August 29, 2026  
+
+---
+
+**Explore the projects. Run the code. Ask questions.**
