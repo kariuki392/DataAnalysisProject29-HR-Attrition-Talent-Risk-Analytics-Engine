@@ -237,12 +237,12 @@ Every project follows a **systematic production-grade pipeline**:
 **Gabriel Kariuki**  
 Nairobi, Kenya  
 📊 [GitHub: kariuki392](https://github.com/kariuki392)  
-🔗 [LinkedIn](https://linkedin.com/in/gabrielkariuki)  
-✉️ Email: [gabriel@example.com]  
+🔗 [LinkedIn](www.linkedin.com/in/gabriel-kariuki-193892246)  
+✉️ Email: [kariukigabriel@icloud.com]  
 
-**Portfolio Built:** August 2026  
+**Portfolio Built:** August 2024  
 **Last Updated:** August 29, 2026  
 
 ---
 
-**Explore the projects. Run the code. Ask questions.**
+**Explore the projects. Run the code and cells. Engage with me!.**
